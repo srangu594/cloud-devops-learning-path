@@ -1,4 +1,4 @@
-# ☁️ Cloud & DevOps Learning Path
+# ☁️ Cloud & DevOps Learning Path (Sandy)
 ## *Complete Professional Training Program for Modern IT Excellence*
 
 <div align="center">
@@ -727,6 +727,6 @@ For corporate training, consulting, or custom development:
 ---
 
 *Last Updated: July 2025 | Version 2.0*  
-*Created with ❤️ by Varun Kumar Manik*
+*Created with ❤️ by sandy*
 
 </div>

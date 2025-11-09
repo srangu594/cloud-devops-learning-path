@@ -727,6 +727,6 @@ For corporate training, consulting, or custom development:
 ---
 
 *Last Updated: July 2025 | Version 2.0*  
-*Created with ❤️ by varun kumar manik*
+*Created with ❤️ by Varun Kumar Manik*
 
 </div>

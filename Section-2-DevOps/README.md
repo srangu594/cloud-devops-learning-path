@@ -1,4 +1,4 @@
-# Section 2: DevOps & Infrastructure as Code 🚀
+# Section 2: DevOps & Infrastructure as Code 🚀 changed info to check and test cloning, adding, commit, push add etc.
 
 > Comprehensive DevOps training program designed to advance your career as a Cloud & DevOps Engineer
 
